@@ -1,7 +1,7 @@
 # Bigmart
 - In this repository, I have done Exploratory data analysis and feature engineering for bigmart dataset
 
-## Technologies used:
+## Technologies used: 
 - Python
 - Pandas
 - Matplotlib
